@@ -1,0 +1,18 @@
+
+		.nav{
+			display: flex;
+			justify-content: left;
+			justify-content: space-evenly;
+			background-color: grey;
+			padding: 2%;
+			
+
+			
+		}
+		.nav a{
+			text-decoration: none;
+			color: black;
+			font-size: 20px;
+			
+		}
+	
